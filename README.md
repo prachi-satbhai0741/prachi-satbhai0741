@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MERN+Full+Stack+Developer;DevOps+and+Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=;MERN+Full+Stack+Developer;DevOps+and+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,6 +15,7 @@ I'm a **Computer Engineering student** passionate about building impactful softw
 - 🛠️ Building experience with **CI/CD pipelines**, **Docker**, **version control workflows**, and **agile methodologies**
 - 👯 Preparing for **open-source contributions** and collaborative development in distributed teams
 - 💡 Love building projects that bridge **frontend elegance** with **backend efficiency** and **cloud scalability**
+- 📫 Reach me at: **prachisatbhai@gmail.com**
 
 ---
 
@@ -77,7 +78,7 @@ Linux • Ubuntu • Windows
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=prachi-satbhai0741&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=prachi-satbhai0741&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=c,c%2B%2B" alt="GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-satbhai0741&theme=default&hide_border=true" alt="GitHub Streak" />
@@ -85,14 +86,13 @@ Linux • Ubuntu • Windows
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-satbhai0741&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-satbhai0741&layout=compact&theme=default&hide_border=true&langs_count=8&hide=c,c%2B%2B" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 </div>
 
----
 
 ## 🤝 Connect With Me
 
