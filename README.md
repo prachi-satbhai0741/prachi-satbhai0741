@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MERN+Full+Stack+Developer;DevOops+&+Cloud+Enthusiast;](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MERN+Full+Stack+Developer;DevOps+and+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,6 @@ I'm a **Computer Engineering student** passionate about building impactful softw
 - 🛠️ Building experience with **CI/CD pipelines**, **Docker**, **version control workflows**, and **agile methodologies**
 - 👯 Preparing for **open-source contributions** and collaborative development in distributed teams
 - 💡 Love building projects that bridge **frontend elegance** with **backend efficiency** and **cloud scalability**
-- 📫 Reach me at: **prachisatbhai@gmail.com**
 
 ---
 
@@ -33,7 +32,7 @@ Node.js • Express.js • RESTful APIs • GraphQL
 
 ### Programming Languages
 ```
-Java • Python • C++ • JavaScript
+Java • Python • JavaScript
 ```
 
 ### Database & Data Management
@@ -93,7 +92,7 @@ Linux • Ubuntu • Windows
 
 </div>
 
-
+---
 
 ## 🤝 Connect With Me
 
