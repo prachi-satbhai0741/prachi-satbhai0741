@@ -50,15 +50,44 @@ Jenkins • GitHub Actions • CI/CD Pipelines
 Linux • Ubuntu • Windows
 ```
 
-## 📊 GitHub Stats
+# Hi there, I'm Prachi! 👋
 
 <div align="center">
   
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachi-satbhai0741&theme=react-dark&hide_border=true&area=true)
+
+### 💻 GitHub Metrics
+
+```text
+📦 Total Repositories        🎯 Public Projects
+🔀 Pull Requests            ⭐ Stars Earned
+🐛 Issues Opened            🤝 Contributions
+```
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=prachi-satbhai0741&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-satbhai0741&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-satbhai0741&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -77,4 +106,7 @@ Linux • Ubuntu • Windows
 
 ---
 
-⭐️ From [Prachi](https://github.com/YOUR_GITHUB_USERNAME) | Feel free to explore my repositories and reach out for collaboration!
+⭐️ From [Prachi](https://github.com/prachi-satbhai0741) | Feel free to explore my repositories and reach out for collaboration!
+---
+
+!
