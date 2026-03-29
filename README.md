@@ -77,18 +77,13 @@ Linux • Ubuntu • Windows
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=prachi-satbhai0741&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=c,c%2B%2B" alt="GitHub Stats" />
+   
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-satbhai0741&theme=default&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-satbhai0741&layout=compact&theme=default&hide_border=true&langs_count=8&hide=c,c%2B%2B" alt="Top Languages" />
-    </td>
-  </tr>
+  
 </table>
 
 </div>
