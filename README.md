@@ -1,8 +1,8 @@
 # Hi there, I'm Prachi! 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=;MERN+Full+Stack+Developer;DevOps+and+Cloud+Enthusiast)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MERN+Full+Stack+Developer;DevOps+and+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,25 +69,18 @@ Linux • Ubuntu • Windows
 <div align="center">
 
 ### 📈 Contribution Graph
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachi-satbhai0741&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 <br/>
 
 ### 💻 GitHub Stats
 
-<table>
-  <tr>
-   
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-satbhai0741&theme=default&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  
-</table>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prachi-satbhai0741&theme=default&hide_border=true)
 
 </div>
 
+---
 
 ## 🤝 Connect With Me
 
