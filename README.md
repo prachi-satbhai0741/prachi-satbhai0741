@@ -62,26 +62,6 @@ VS Code • IntelliJ IDEA • Postman • Swagger
 Linux • Ubuntu • Windows
 ```
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachi-satbhai0741&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
-<br/>
-
-### 💻 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prachi-satbhai0741&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
