@@ -52,11 +52,6 @@ Jenkins • GitHub Actions • CI/CD Pipelines
 Git • GitHub • GitLab
 ```
 
-### Development Tools & IDEs
-```
-VS Code • IntelliJ IDEA • Postman • Swagger
-```
-
 ### Operating Systems & Environments
 ```
 Linux • Ubuntu • Windows
