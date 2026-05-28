@@ -35,9 +35,6 @@ Building full-stack apps, containerizing them with Docker, and shipping through 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prachi-satbhai0741&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-satbhai0741&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=prachi-satbhai0741&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -62,8 +59,5 @@ Building full-stack apps, containerizing them with Docker, and shipping through 
 
 <sub>⭐ From <a href="https://github.com/prachi-satbhai0741">Prachi</a> — feel free to explore, star what you like, and reach out anytime!</sub>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=prachi-satbhai0741&color=2E9EF7&style=flat-square&label=Profile+Views)
 
 </div>
