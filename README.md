@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi,I'm Prachi Satbhai
+# Hi, I'm Prachi Satbhai
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps;Docker+%7C+CI%2FCD+Pipelines;Full+Stack+Developer+(MERN);Building+real-world+apps)](https://git.io/typing-svg)
 
@@ -8,18 +8,18 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Building full-stack apps, containerizing them with Docker, and shipping through CI/CD pipelines. Currently diving deep into AWS and cloud-native patterns.
 
-- 🐳 **Docker** — bridge networking, multi-container setups, nginx reverse proxy, Redis caching
-- ⚙️ **CI/CD** — GitHub Actions pipelines across multiple repos
-- ☁️ **AWS** — hands-on with EC2, S3, and Lambda
-- 🌐 **Full Stack (MERN)** — REST APIs, real-time apps with WebSockets, auth flows
+- **Docker** — bridge networking, multi-container setups, nginx reverse proxy, Redis caching
+- **CI/CD** — GitHub Actions pipelines across multiple repos
+- **AWS** — hands-on with EC2, S3, and Lambda
+- **Full Stack (MERN)** — REST APIs, real-time apps with WebSockets, auth flows
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -31,7 +31,7 @@ Building full-stack apps, containerizing them with Docker, and shipping through 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -41,7 +41,17 @@ Building full-stack apps, containerizing them with Docker, and shipping through 
 
 ---
 
-## 🤝 Connect
+## Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachi-satbhai0741&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -56,8 +66,5 @@ Building full-stack apps, containerizing them with Docker, and shipping through 
 ---
 
 <div align="center">
-
-<sub>⭐ From <a href="https://github.com/prachi-satbhai0741">Prachi</a> — feel free to explore, star what you like, and reach out anytime!</sub>
-
-
+<sub>From <a href="https://github.com/prachi-satbhai0741">Prachi</a> — feel free to explore, star what you like, and reach out anytime!</sub>
 </div>
