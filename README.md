@@ -2,11 +2,7 @@
 
 # Prachi Satbhai
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipelines+%7C+GitHub+Actions;Full+Stack+Developer+(MERN+%2B+Go);Building+and+shipping+real-world+systems)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=prachi-satbhai0741&style=flat-square&color=2E9EF7)
-[![GitHub followers](https://img.shields.io/github/followers/prachi-satbhai0741?label=Followers&style=flat-square&color=2E9EF7&labelColor=1a1b27)](https://github.com/prachi-satbhai0741)
-[![GitHub User's stars](https://img.shields.io/github/stars/prachi-satbhai0741?label=Total%20Stars&style=flat-square&color=2E9EF7&labelColor=1a1b27)](https://github.com/prachi-satbhai0741)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Docker;GitHub+Actions;Full+Stack+Developer+(MERN);Building+and+shipping+real-world+systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,19 +49,13 @@ Computer Engineering student building full-stack applications, containerizing th
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prachi-satbhai0741&theme=tokyonight&no-frame=true&column=7&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://github.com/prachi-satbhai0741/prachi-satbhai0741/blob/output/github-snake-dark.svg?raw=true)
+[![Prachi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prachi-satbhai0741&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
